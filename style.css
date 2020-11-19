@@ -1,0 +1,13 @@
+body {
+    display: flexbox;
+    background-color: #D4CDF4;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+h1 {
+    font-size: 40px;
+    color:black  ;
+}
