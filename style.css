@@ -1,23 +1,46 @@
 body {
-    background-color: #F3EAF4;
     font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
-    font-weight: 600;
+    background-image: url(https://www.marketing365.com.br/wp-content/uploads/2018/10/fatores-cr%C3%ADticos-de-sucesso.jpg);
+    background-repeat: no-repeat;
+  background-position: top;
+  background-size: 800px 300px;
+  
 }
 
-.decoretion-none {
-    text-decoration: none;
+.header {
+        
+   font-weight: 200;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(0, 11, 24)
+
+}
+.links {text-decoration: none;
     text-align: justify;
+    margin: 5px solid blue;
+    float: right;
+    width: 200px;
+    background-color: brown;
+}
+.about {
+   float:left;
+   height: 400px;
+   width: 400px;
+   background-color: cadetblue;
+}
+.
+
+.decoretion-none {
+    
    }
 .link-list {
     text-decoration: none;
 }
 #foto {
+   border: ridge;
+   border-color:rgb(50, 66, 160) ;
     border-radius: 5%;
     width: 400px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.363), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(196, 186, 186, 0.363), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
-}
-
-
 }
